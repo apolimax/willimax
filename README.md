@@ -8,7 +8,8 @@
 - 🔭 I’m currently working on LAIS/UFRN and open to work
 - 🌱 I’m currently learning all about the newest front-end technologies
 - 👯 I’m looking to collaborate on web development projects
-- 💬 Ask me about React.js, Next.js, HTML, CSS
+- 📝 I write at medium: https://medium.com/@willimax
+- 💬 Ask me about Javascript, HTML, CSS, React.js & Next.js
 - 📫 How to reach me: willieapolinario@gmail.com
 - 😄 Pronouns: he/him/ele/lui
 <!-- ⚡ Fun fact: ... -->
