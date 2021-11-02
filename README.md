@@ -12,7 +12,7 @@
 - 💬 Ask me about Javascript, HTML, CSS, React.js & Next.js
 - 📫 How to reach me: willieapolinario@gmail.com
 - 😄 Pronouns: he/him/ele/lui
-<!-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: former mechanical engineer
 
 ### 🛠 &nbsp;Tech Stack
 
