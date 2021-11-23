@@ -5,7 +5,7 @@
 
 ### &nbsp;Some info about me
 
-- 🔭 I’m currently working on LAIS/UFRN and open to work
+- 🔭 I’m open to work
 - 🌱 I’m currently learning all about the newest front-end technologies
 - 👯 I’m looking to collaborate on web development projects
 - 📝 I write at medium: https://medium.com/@willimax
