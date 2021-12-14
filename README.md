@@ -1,4 +1,4 @@
-## Hi there, I'm a junior front-end dev 👋
+## Hi there, I'm a front-end dev 👋
 
 
 <!-- **willimax/willimax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
